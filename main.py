@@ -1,1 +1,3 @@
-print("The self-checkout scanned my 2 a.m. ice cream and sighed, \"Unexpected item in bagging area — your life choices, however, were fully expected.\"")
+from entry_text import LINE
+
+print(LINE)
